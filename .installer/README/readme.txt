@@ -1,0 +1,1 @@
+To work propertly start install.cmd with elevated rights. In this variant file will be copied to Rainmeter install dir. If something going wrong ñheck if OpenHardwareMonitorLib.dll present in Rainmeter installation dir
