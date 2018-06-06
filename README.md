@@ -13,10 +13,10 @@ Minimalistic skin for Rainmeter.
  
  ## Features:
  - Reworked skin
- - Easy to customize
- - System monitoring
- - Weather
- - Date/Time
+ - Supports English and Russian language
+ - Easy to customize (font, color, hide/show elements, etc...)
+ - System monitoring (CPU temperature, usages, etc...)
+ - Date/Time and Weather monitoring
  
  ## Installation:
 1. Install [Rainmeter](https://www.rainmeter.net/)
