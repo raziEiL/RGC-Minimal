@@ -1,15 +1,30 @@
-![RGC-Minimal v0.6 Screenshot](https://github.com/raziEiL/RGC-Minimal/blob/master/.installer/preview.jpg "Monstercat Visualizer Screenshot")
+![RGC-Minimal Preview Screenshot](https://github.com/raziEiL/RGC-Minimal/blob/master/.installer/preview.jpg "RGC-Minimal Preview Screenshot")
 
 # RGC-Minimal
 
-Reworked skin for Rainmeter
+Minimalistic skin for Rainmeter. 
 
 [![GitHub release](https://img.shields.io/github/release/raziEiL/RGC-Minimal.svg?colorB=97CA00?label=version)](https://github.com/raziEiL/RGC-Minimal/releases/latest)
 
-## Requirements
+## Requirements:
  - Windows 7 or higher.
- - [Rainmeter 4.2 Beta](https://www.rainmeter.net/) or higher.
- - [Core Temp](https://www.alcpu.com/CoreTemp/)
+ - Rainmeter 4.2 Beta or higher.
+ - Core Temp
  
- ## Credits
- - Thanks to **Unu7ual** for original skin
+ ## Features:
+ - Reworked skin
+ - Easy to customize
+ - System monitoring
+ - Weather
+ - Date/Time
+ 
+ ## Installation:
+1. Install [Rainmeter](https://www.rainmeter.net/)
+1. Download the latest [RGC-Minimal skin](https://github.com/raziEiL/RGC-Minimal/releases)
+2. Install the skin by **double-clicking** the .rmskin file
+3. Install [Core Temp](https://www.alcpu.com/CoreTemp/) and make it **Start with Windows** and **Start minimized** (Required for CPU temperature monitoring and other vital information)
+4. Go to Rainmeter skin folder and copy **OpenHardwareMonitorLib.dll** from **RGC-Minimal\.installer\README** dir to Rainmeter programm folder (Required for GPU temperature monitoring and other vital information). Read more about [Rainmeter location](https://docs.rainmeter.net/manual-beta/installing-rainmeter/#DefaultFileLocations)
+5. Done! To access the settings, **right-click** the skin and check Custom skin action item.
+
+ ## Credits:
+ - Thanks to [Unu7ual](https://unu7ual.deviantart.com/art/RGC-Minimal-Beta-0-3-For-Rainmeter-347331250) for original skin
