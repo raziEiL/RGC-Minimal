@@ -1,6 +1,6 @@
 ![RGC-Minimal Preview Screenshot](https://github.com/raziEiL/RGC-Minimal/blob/master/.installer/preview.jpg "RGC-Minimal Preview Screenshot")
 
-# RGC-Minimal
+# RGC-Minimal 2.0
 
 Minimalistic skin for Rainmeter. 
 
