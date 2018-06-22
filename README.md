@@ -29,5 +29,8 @@ Minimalistic skin for Rainmeter.
 4.4 Run Rainmeter program and load **RGC-Minimal\CPUGPU\cpugpu.ini**
 5. Done! To access the settings, **right-click** the skin and check **Custom skin action** item.
 
+## Links:
+- [Deviantart](https://razieil.deviantart.com/art/RGC-Minimal-2-0-For-Rainmeter-750969966)
+
  ## Credits:
  - Thanks to [Unu7ual](https://unu7ual.deviantart.com/art/RGC-Minimal-Beta-0-3-For-Rainmeter-347331250) for original skin
