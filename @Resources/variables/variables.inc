@@ -3,8 +3,8 @@
 
 Language=0
 ; Default font = Montserrat
-; Montserrat Alternate for monospace number
-NumberFont=Montserrat Alternates Light
+; Monospace font = Montserrat Alternates
+NumberFont=Montserrat
 LetterFont=Montserrat
 TextStyle=Normal
 TextEffect=Border
@@ -28,10 +28,11 @@ CPUBottom=1
 CPURight=1
 CPULeft=0
 CPUTop=1
+CPUCompact=1
 
 TimeBottom=0
 TimeRight=1
-TimeLeft=1
+TimeLeft=0
 TimeTop=0
 TimeAlign=Center
 
@@ -41,7 +42,7 @@ RAMLeft=1
 RAMTop=1
 
 WeatherBottom=1
-WeatherRight=0
+WeatherRight=1
 WeatherLeft=1
 WeatherTop=1
 
