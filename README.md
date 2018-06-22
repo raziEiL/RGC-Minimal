@@ -22,9 +22,11 @@ Minimalistic skin for Rainmeter.
 1. Install [Rainmeter](https://www.rainmeter.net/)
 2. Download the latest [RGC-Minimal skin](https://github.com/raziEiL/RGC-Minimal/releases)
 3. Install the skin by **double-clicking** the .rmskin file
-4. Make CPU & GPU skin working (skip step if you don't use this skin)<br/>
-4.1 Install [Core Temp](https://www.alcpu.com/CoreTemp/) and make it **Start with Windows** and **Start minimized** (Required for CPU temperature monitoring and other vital information)<br/>
-4.2 Go to Rainmeter skin folder and copy **OpenHardwareMonitorLib.dll** from **RGC-Minimal\\.installer\README** dir to Rainmeter programm folder (Required for GPU temperature monitoring and other vital information). Read more about [Rainmeter location](https://docs.rainmeter.net/manual-beta/installing-rainmeter/#DefaultFileLocations)
+4. Make **CPU & GPU** skin working (skip step if you don't use this skin)<br/>
+4.1 Close Rainmeter program (Right click on the tray icon and hit exit)<br/>
+4.2 Install [Core Temp](https://www.alcpu.com/CoreTemp/) and make it **Start with Windows** and **Start minimized** (Required for CPU temperature monitoring and other vital information)<br/>
+4.3 Go to Rainmeter skin folder and copy **OpenHardwareMonitorLib.dll** from **RGC-Minimal\\.installer\README** dir to Rainmeter programm folder (Required for GPU temperature monitoring and other vital information). Read more about [Rainmeter location](https://docs.rainmeter.net/manual-beta/installing-rainmeter/#DefaultFileLocations)<br/>
+4.4 Run Rainmeter program and load **RGC-Minimal\CPUGPU\cpugpu.ini**
 5. Done! To access the settings, **right-click** the skin and check **Custom skin action** item.
 
  ## Credits:
