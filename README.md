@@ -34,3 +34,6 @@ Minimalistic skin for Rainmeter.
 
  ## Credits:
  - Thanks to [Unu7ual](https://unu7ual.deviantart.com/art/RGC-Minimal-Beta-0-3-For-Rainmeter-347331250) for original skin
+ 
+ ## Donation
+My cat wants a new toy! I try to make quality and beautiful toys for my beloved cat. I create toys in my spare time but sometimes I can step into a tangle and get confused! Oops! It takes time to get out! When the toy is ready I give it to the cat, the GitHub cat and the community can also play with it. So if you enjoy my toys and want to thank me for my work, you can send any amount. All money will be spent on milk! [Donate:feet:](https://www.paypal.me/razicat)
