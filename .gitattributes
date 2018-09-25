@@ -1,3 +1,6 @@
+$ cat .gitattributes
+*.inc linguist-language=INI
+
 # Auto detect text files and perform LF normalization
 * text=auto
 
