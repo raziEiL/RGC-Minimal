@@ -5,7 +5,7 @@
 Minimalistic skin for Rainmeter. 
 
 [![GitHub release](https://img.shields.io/github/release/raziEiL/RGC-Minimal.svg?colorB=97CA00?label=version)](https://github.com/raziEiL/RGC-Minimal/releases/latest)
-
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/razicat)  
 ## Requirements:
  - Windows 7 or higher.
  - Rainmeter 4.2 Beta or higher.
@@ -33,7 +33,8 @@ Minimalistic skin for Rainmeter.
 - [Deviantart](https://razieil.deviantart.com/art/RGC-Minimal-2-0-For-Rainmeter-750969966)
 
  ## Credits:
- - Thanks to [Unu7ual](https://unu7ual.deviantart.com/art/RGC-Minimal-Beta-0-3-For-Rainmeter-347331250) for original skin
- 
+ - Thanks to [@Unu7ual](https://unu7ual.deviantart.com/art/RGC-Minimal-Beta-0-3-For-Rainmeter-347331250) for original skin
+ - Montserrat Font - [@JulietaUla](https://github.com/JulietaUla/Montserrat)
+  
  ## Donation
 My cat wants a new toy! I try to make quality and beautiful toys for my beloved cat. I create toys in my spare time but sometimes I can step into a tangle and get confused! Oops! It takes time to get out! When the toy is ready I give it to the cat, the GitHub cat and the community can also play with it. So if you enjoy my toys and want to thank me for my work, you can send any amount. All money will be spent on milk! [Donate:feet:](https://www.paypal.me/razicat)
